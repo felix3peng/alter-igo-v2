@@ -1,0 +1,6 @@
+.venv/
+*.code-workspace
+Dockerfile
+codex_script*
+__pycache__/
+.vscode/
